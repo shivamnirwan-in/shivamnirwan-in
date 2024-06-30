@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam</h1>
+c<h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">A Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamnirwan-in&label=Profile%20views&color=0e75b6&style=flat" alt="shivamnirwan-in" /> </p>
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/programming zone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programming zone" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/programming zone](https://youtube.com/@programmingzone-hs2oj?si=2gLuZYRE1zm1Id_y)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programming zone" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
