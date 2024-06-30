@@ -30,6 +30,12 @@
 <h3 align="left">Random Dev quote:</h3>
 <p>Random Dev Quote <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamnirwan-in&show_icons=true&locale=en" alt="shivamnirwan-in" /></p>
+<h1>📊 GitHub Stats:</h1>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamnirwan-in&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamnirwan-in&theme=one_dark_pro&hide_border=false" alt="GitHub Streak Stats"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamnirwan-in&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamnirwan-in&" alt="shivamnirwan-in" /></p>
