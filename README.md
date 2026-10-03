@@ -13,11 +13,9 @@
 
 I'm a recent Computer Science graduate passionate about software development, especially Java-based backend and full-stack applications.
 
-- ☕ Learning **Core Java, Advanced Java, Spring, Spring Boot, and Microservices**
-- 🌐 Exploring frontend development with **HTML, CSS, JavaScript, Bootstrap, and ReactJS**
-- 🗄️ Learning database technologies including **Oracle, SQL, and PL/SQL**
+- ☕ Learning **Java, Spring Boot, and Spring MVC**
+- 🌐 Exploring frontend development with **HTML, CSS, JavaScript, and React**
 - ☁️ Building familiarity with **AWS, Google Cloud, and DevOps tools**
-- ⚙️ Exploring **CI/CD, DevSecOps, automation, and software testing**
 - 📚 Continuously improving my problem-solving and software development skills
 - 🤝 Interested in collaborating, learning from developers, and contributing to real-world projects
 
@@ -25,95 +23,37 @@ I'm at the beginning of my professional journey and looking forward to turning m
 
 ---
 
-## 🛠️ Tech Stack & Technologies
+## 🛠️ Tech Stack
 
-### ☕ Java & Backend Development
-
+### 💻 Languages & Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring" alt="Java and Spring" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,bootstrap" alt="Java, HTML, CSS, JavaScript, React and Bootstrap" />
 </p>
 
-- Core Java
-- Advanced Java
-- Spring Framework
-- Spring Boot
-- Microservices
-- SLF4J
-
-### 🌐 Frontend Development
-
+### ⚙️ Backend & Build Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" alt="HTML, CSS, JavaScript, Bootstrap and React" />
+  <img src="https://skillicons.dev/icons?i=spring,gradle,maven" alt="Spring, Gradle and Maven" />
 </p>
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- ReactJS
-
-### 🗄️ Database
-
+### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=oracle,mysql" alt="Oracle and MySQL" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins" alt="AWS, Google Cloud, Docker and Jenkins" />
 </p>
 
-- Oracle Database
-- SQL
-- PL/SQL
-
-### ☁️ Cloud Technologies
-
+### 🔧 Tools & Version Control
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,heroku" alt="AWS, Google Cloud and Heroku" />
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub" />
 </p>
-
-- AWS Basics
-- Google Cloud Platform (GCP)
-- Heroku
-
-### ⚙️ DevSecOps, CI/CD & Build Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,maven,gradle" alt="Git, GitHub, Jenkins, Docker, Maven and Gradle" />
-</p>
-
-- Git
-- GitHub
-- Jenkins
-- Docker
-- Maven
-- Gradle
-- Chef
-
-### 🧪 Testing & Code Quality
-
-- JUnit
-- Mockito
-- JMeter
-- SonarQube
-
-### 📊 Monitoring, Logging & Analytics
-
-- Datadog
-- ELK Stack
-- SLF4J
-
-### 📋 Project Management
-
-- Jira
 
 ---
 
 ## 🌱 Currently Focusing On
 
-- ☕ Strengthening my Core Java and Advanced Java fundamentals
+- ☕ Strengthening my Java programming fundamentals
 - 🔥 Learning Spring Boot and REST API development
-- 🏗️ Understanding Microservices architecture
-- 🗄️ Improving my knowledge of Oracle, SQL, and PL/SQL
-- 🌐 Enhancing my frontend skills with ReactJS
-- 🧪 Exploring unit testing with JUnit and Mockito
-- 🚀 Learning cloud deployment, Docker, Jenkins, and CI/CD fundamentals
+- 🗄️ Understanding backend architecture and database integration
+- 🌐 Improving my full-stack development skills
+- 🚀 Exploring cloud deployment and CI/CD fundamentals
 
 ---
 
@@ -144,3 +84,7 @@ I'm eager to learn, contribute to a development team, and grow through practical
 ---
 
 ⭐ *Learning every day, building my skills, and working toward becoming a professional software developer.*
+
+
+
+recreat eit
