@@ -1,59 +1,86 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+# Hey, I'm Shivam Nirwan 👋
 
-###
+### 💻 Aspiring Java Full Stack Developer | Computer Science Graduate
 
-<p data-importer="text" align="left">My name is Shivam and I'm a Java Full Stack Developer, from India</p>
+🎓 B.E. in Computer Science & Engineering (2026)  
+🌱 Currently learning **Java Full Stack Development**  
+💡 Interested in building scalable backend applications and responsive web experiences  
+🎯 Exploring opportunities as a **Java Developer | Backend Developer | Software Engineer**
 
-###
+---
 
-<h2 data-importer="text" align="left">About me</h2>
+## 🚀 About Me
 
-###
+I'm a recent Computer Science graduate passionate about software development, especially Java-based backend and full-stack applications.
 
-<p data-importer="text" align="left">learning java full stack</p>
+- ☕ Learning **Java, Spring Boot, and Spring MVC**
+- 🌐 Exploring frontend development with **HTML, CSS, JavaScript, and React**
+- ☁️ Building familiarity with **AWS, Google Cloud, and DevOps tools**
+- 📚 Continuously improving my problem-solving and software development skills
+- 🤝 Interested in collaborating, learning from developers, and contributing to real-world projects
 
-###
+I'm at the beginning of my professional journey and looking forward to turning my knowledge into practical software solutions.
 
-<h2 data-importer="text" align="left">I code with</h2>
+---
 
-###
+## 🛠️ Tech Stack
 
-<div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
-</div>
+### 💻 Languages & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,bootstrap" alt="Java, HTML, CSS, JavaScript, React and Bootstrap" />
+</p>
 
-###
+### ⚙️ Backend & Build Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,gradle,maven" alt="Spring, Gradle and Maven" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins" alt="AWS, Google Cloud, Docker and Jenkins" />
+</p>
+
+### 🔧 Tools & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub" />
+</p>
+
+---
+
+## 🌱 Currently Focusing On
+
+- ☕ Strengthening my Java programming fundamentals
+- 🔥 Learning Spring Boot and REST API development
+- 🗄️ Understanding backend architecture and database integration
+- 🌐 Improving my full-stack development skills
+- 🚀 Exploring cloud deployment and CI/CD fundamentals
+
+---
+
+## 🎯 Career Interests
+
+I'm interested in entry-level opportunities in:
+
+- Java Development
+- Java Full Stack Development
+- Backend Development
+- Spring Boot Development
+- Software Engineering
+
+I'm eager to learn, contribute to a development team, and grow through practical experience.
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/shivamnirwan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" />
+  </a>
+</p>
+
+📫 Feel free to connect with me on LinkedIn to discuss technology, software development, and opportunities.
+
+---
+
+⭐ *Learning every day, building my skills, and working toward becoming a professional software developer.*
